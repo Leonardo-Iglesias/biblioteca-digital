@@ -1,0 +1,36 @@
+# Maven
+target/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ / Eclipse
+.idea/
+.classpath
+.project
+.settings/
+
+# Archivos compilados
+*.class
+*.war
+*.jar
+
+# Logs
+*.log
+
+# Errores y diagnósticos de Java
+hs_err_pid*
+replay_pid*
+
+# Variables de entorno y credenciales
+.env
+.env.*
+*.env
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
